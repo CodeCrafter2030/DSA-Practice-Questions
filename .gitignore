@@ -1,0 +1,12 @@
+# Ignore compiled files
+*.exe
+*.out
+*.o
+
+# Ignore temporary or cache files
+*.obj
+*.class
+*.log
+
+# Ignore VSCode build files
+.vscode/
